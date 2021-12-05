@@ -10,5 +10,5 @@ edition = "2018"
 
 
 [[example]]
-name = "04"
-path = "src/04_day.rs"
+name = "05"
+path = "src/05_day.rs"
