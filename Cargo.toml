@@ -10,5 +10,5 @@ edition = "2018"
 regex = "1"
 
 [[example]]
-name = "10"
-path = "src/10_day.rs"
+name = "11"
+path = "src/11_day.rs"
