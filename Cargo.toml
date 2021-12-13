@@ -7,8 +7,8 @@ edition = "2018"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-regex = "1"
+dict = "0.1.5"
 
 [[example]]
-name = "11"
-path = "src/11_day.rs"
+name = "13"
+path = "src/13_day.rs"
