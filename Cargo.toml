@@ -10,5 +10,5 @@ edition = "2018"
 dict = "0.1.5"
 
 [[example]]
-name = "13"
-path = "src/13_day.rs"
+name = "14"
+path = "src/14_day.rs"
